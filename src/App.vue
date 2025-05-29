@@ -6,6 +6,7 @@ import SecuritySection from './components/SecuritySection.vue'
 import StatsSection from './components/StatsSection.vue'
 import CTASection from './components/CTASection.vue'
 import AppFooter from './components/AppFooter.vue'
+import ComeSoon from './components/ComeSoon.vue'
 </script>
 
 
@@ -17,6 +18,7 @@ import AppFooter from './components/AppFooter.vue'
     <SecuritySection />
     <StatsSection />
     <CTASection />
+    <ComeSoon />
     <AppFooter /> 
   </div>
 </template>
