@@ -12,9 +12,11 @@
           <button class="bg-white text-indigo-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-100 transition-all transform hover:scale-105">
             Tải ứng dụng miễn phí
           </button>
+          <a href="mailto:104175915@student.swin.edu.au">
           <button class="border-2 border-white text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-white hover:text-indigo-600 transition-all">
             Liên hệ tư vấn
           </button>
+          </a>
         </div>
       </div>
     </div>

@@ -7,6 +7,7 @@ import StatsSection from './components/StatsSection.vue'
 import CTASection from './components/CTASection.vue'
 import AppFooter from './components/AppFooter.vue'
 import ComeSoon from './components/ComeSoon.vue'
+import SmartWalletDemo from '@/components/SmartWalletDemo.vue'
 </script>
 
 
@@ -15,6 +16,7 @@ import ComeSoon from './components/ComeSoon.vue'
     <AppHeader />
     <HeroSection/>
     <FeaturesSection />
+    <SmartWalletDemo />
     <SecuritySection />
     <StatsSection />
     <CTASection />

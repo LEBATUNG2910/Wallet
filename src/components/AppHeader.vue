@@ -45,6 +45,5 @@
 <script setup>
 import { ref } from 'vue'
 import { Wallet, Menu } from 'lucide-vue-next'
-
 const mobileMenuOpen = ref(false)
 </script>

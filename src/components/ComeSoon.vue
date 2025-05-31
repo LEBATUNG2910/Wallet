@@ -89,7 +89,7 @@
         </div>
 
         <!-- Email Signup -->
-        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-8 max-w-lg mx-auto">
+        <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-8 max-w-lg mx-auto mb-4 ">
           <h3 class="text-xl font-bold text-white mb-4">Nhận thông báo ra mắt</h3>
           <div class="flex gap-3">
             <input 
@@ -113,13 +113,6 @@
 
       </div>
     </main>
-
-    <!-- Footer -->
-    <footer class="relative z-10 text-center py-8">
-      <p class="text-white/60">
-        &copy; 2024 SmartWallet - Phát triển tại Việt Nam 🇻🇳
-      </p>
-    </footer>
   </div>
 </template>
 

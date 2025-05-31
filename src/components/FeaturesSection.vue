@@ -41,7 +41,7 @@ const features = [
     title: 'Xác thực CCCD & Khuôn mặt',
     description: 'Bảo mật tối đa với công nghệ nhận diện sinh trắc học và xác thực CCCD/CMND.',
     icon: UserCheck,
-    iconBg: 'bg-gradient-to-r from-blue-500 to-blue-600'
+    iconBg: 'bg-gradient-to-r from-blue-500 to-blue-600',
   },
   {
     title: 'Tài khoản đồng sở hữu',
