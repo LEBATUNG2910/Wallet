@@ -8,11 +8,13 @@ import CTASection from './components/CTASection.vue'
 import AppFooter from './components/AppFooter.vue'
 import ComeSoon from './components/ComeSoon.vue'
 import SmartWalletDemo from '@/components/SmartWalletDemo.vue'
+// import Admin from './views/Admin.vue'
 </script>
 
 
 <template>
   <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
+    <!-- <Admin/> -->
     <AppHeader />
     <HeroSection/>
     <FeaturesSection />
