@@ -18,7 +18,7 @@
         
         <div class="flex items-center space-x-4">
           <button class="text-gray-700 hover:text-blue-600 transition-colors">Đăng nhập</button>
-          <button class="bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-6 py-2 rounded-lg hover:from-blue-700 hover:to-indigo-700 transition-all">
+          <button class=" text-black px-6 py-2 hover:text-red-500  transition-color">
             Đăng ký
           </button>
         </div>
